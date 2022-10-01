@@ -23,7 +23,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 ✍️ At the end of the challenge, I would love to already have the AZ-900, and potentially another certification as previously stated. I want to be comfortable and knowlegable on Azure and maybe even starting to look at AWS or GCP
 
 - [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [✍️ Link to your LinkedIn]([https://www.linkedin.com/in/usernam](https://www.linkedin.com/in/andrew-leddy-93a980216/))
 
 ## Stepping out the door
 
