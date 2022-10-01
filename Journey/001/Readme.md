@@ -1,5 +1,6 @@
 **Add a cover photo like:**
-![shared-responsibility](https://user-images.githubusercontent.com/102994059/193418323-f1e4f3ad-0c5a-4243-aecb-664e1fb6edbe.svg)
+!![AdobeStock_32120652-4 jpeg optimal](https://user-images.githubusercontent.com/102994059/193419122-e057928e-d28e-4032-b3a5-8b0b3ce35afb.jpeg)
+
 
 # SHARED RESPONSIBILITY MODEL
 
