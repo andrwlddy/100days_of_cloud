@@ -32,4 +32,4 @@
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[linkedin post]([link](https://www.linkedin.com/posts/andrew-leddy-93a980216_100daysofcloud-100daysofcloud-activity-6982016003694034944-fIGm?utm_source=share&utm_medium=member_desktop))
+[linkedin post](https://www.linkedin.com/posts/andrew-leddy-93a980216_100daysofcloud-100daysofcloud-activity-6982016003694034944-fIGm?utm_source=share&utm_medium=member_desktop))
