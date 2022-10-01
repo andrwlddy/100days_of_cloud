@@ -1,49 +1,31 @@
 **Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![shared-responsibility](https://user-images.githubusercontent.com/102994059/193418323-f1e4f3ad-0c5a-4243-aecb-664e1fb6edbe.svg)
 
-# New post title here
+# SHARED RESPONSIBILITY MODEL
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ The shared responsibility model is a core principle to cloud computing and needs to be fully understood before going into more complex topics.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
+✍️  Since this is one of the main principles of cloud, there really isn't pre-requsite knowlege needed. 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
 
-## Cloud Research
+![shared-responsibility](https://user-images.githubusercontent.com/102994059/193418618-db521fa3-82b9-4684-a23a-b7e684ff3bfd.svg)
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
 
-## Try yourself
+- ✍️ (Show-Me) As you can see from the image, the service model (IaaS, PaaS, SaaS) effects who is responsible for what in cloud computing. If this were on-prem, the customer would simply responsible for everything. Some things to notice...
+-     1- The customer is ALWAYS responsible for information and data, devices connecting to the cloud, and accounts and identities.
+-     2- The Cloud provider (i.e Azure, Google Cloud, AWS, etc.) is ALWAYS responsible for the phsyical infranstructure (hosts, network, datacenter)
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+✍️ While this is a rather simple concept, it is something critical to understand in cloud computing. As I study for the AZ-900 and take practice test, I realize understanding this concept is critical to understanding just about everyhting else.
 
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+✍️ Something that could be very helpful, and perhaps is something I will do for day 2 of the 100 days is going more specific into azure resources, and applying what weve covered today to those resources. For example.... Azure Virtual Machines. Where would they fall in, of these three different cloud service models? What about Azure MongoDB?
 
 ## Social Proof
 
