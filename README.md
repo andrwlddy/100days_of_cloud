@@ -14,13 +14,13 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [Andrew]'s Cloud Journey
+## Andrew's Cloud Journey
 
 [✍️ Introduce yourself]
 
-[✍️ Tell us why you started this challenge]
+[✍️ I have started this 100 days of cloud challenge to commit myself to learning Microsoft Azure. I am currently studying for the AZ-900 certification and after that I would love to get another certification, perhaps an Azure security certificaiton. My goal is to get both by the end of the year]
 
-[✍️ Tell us where you want to be at the end of the challenge]
+✍️ At the end of the challenge, I would love to already have the AZ-900, and potentially another certification as previously stated. I want to be comfortable and knowlegable on Azure and maybe even starting to look at AWS or GCP
 
 - [✍️ Link to your Twitter](https://twitter.com/username)
 - [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
