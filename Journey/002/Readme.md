@@ -1,47 +1,27 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+☁️☁️ THE BENEFITS OF CLOUD COMPUTING
 
-## Introduction
+[Azure](https://user-images.githubusercontent.com/102994059/193708106-6a08d922-995a-43b5-b1f6-e7ed81cdadef.jpeg)
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
 
-## Prerequisite
+☁️ We are still keeping things a little basic as it is only day 2 of the 100 day journey. It is necessary to understand the advantages of cloud computing, as it simply explains why cloud computing continues to be a trend and companies are migrating to the cloud. 
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
 
-## Use Case
+☁️☁️☁️ Cloud Research
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+So why are so many companies migrating to the cloud? There are advantages to cloud computing that make it a must for so many companies to adopt.
 
-## Cloud Research
+  One of the most important and basic advantages of cloud computing is the concept of operation expenditure, or OPEX. This is the "pay as you go" approach, and allows companies to simply pay for the resources they use, and ONLY the resources they use. In contrast, if you were to have all you own datacenters and infrastructure, that would be Capital Expenditure, or CAPEX. In CAPEX, you pay for the upkeep of your infrastrucutre even if you are not using it. 
+  
+  Another advantage is Azure is a highly available cloud environment with uptime guarantees depending on the service. These guarantees are part of the service-level agreements (SLAs).
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+  Another major benefit of cloud computing is the scalability of cloud resources. Scalability refers to the ability to adjust resources to meet demand. If you suddenly experience peak traffic and your systems are overwhelmed, the ability to scale means you can add more resources to better handle the increased demand.
 
-## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
 
 ✍️ Describe what you think you think you want to do next.
 
