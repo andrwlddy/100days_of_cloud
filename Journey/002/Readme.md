@@ -3,6 +3,9 @@
 ☁️☁️ THE BENEFITS OF CLOUD COMPUTING
 
 
+![Azure](https://user-images.githubusercontent.com/102994059/193710124-b625751c-9794-40e4-b2c7-8d207271b6c9.jpeg)
+
+
 
 ☁️☁️ We are still keeping things a little basic as it is only day 2 of the 100 day journey. It is necessary to understand the advantages of cloud computing, as it simply explains why cloud computing continues to be a trend and companies are migrating to the cloud. 
 
