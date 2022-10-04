@@ -29,4 +29,4 @@ So why are so many companies migrating to the cloud? There are advantages to clo
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](https://www.linkedin.com/posts/andrew-leddy-93a980216_100daysofcloud-activity-6982859450848002048-BP9c?utm_source=share&utm_medium=member_desktop)
+[Linkedin Post](https://www.linkedin.com/posts/andrew-leddy-93a980216_100daysofcloud-activity-6982859450848002048-BP9c?utm_source=share&utm_medium=member_desktop)
