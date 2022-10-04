@@ -11,23 +11,30 @@
 
  Prerequisite
 
-☁️ It would be beneficial to understand high availability and resielency before reading this lesson
+☁️ It would be beneficial to understand high availability and network resilience before reading this lesson
 
 
 
  ☁️☁️☁️Cloud Research
 
-☁️
+☁️ AVAILABILITY ZONES --- This is how azure makes sure high availability is maintained during any kind of system/infrstructure failure (local). Each availability zone has independant power, network, cooling, and is even in a geographically different place (even though typically still very close, i.e seperate building). 
+
+☁️ Azure Region PAIRS --- This is how Azure make sure high availbaility is maintained during any king of large scale event. In the event an Azure region is compromised, its pair region (typically far away enough to not also be effected by a large scale event, but close enough for latency issues). 
 
 
  ☁️ Cloud Outcome
 
-☁️ (Result) Describe your personal outcome, and lessons learned.
-
+☁️ (Result) 
+             
+             Availability zones provide local redundancy
+             
+             Azure Region pairs provide geographical redundancy 
+            
+             NOT all azure regions have availability zones
 
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link]([link](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-6983202048485769217-vV86?utm_source=share&utm_medium=member_desktop))
