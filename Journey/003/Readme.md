@@ -19,7 +19,7 @@
 
 ☁️ AVAILABILITY ZONES --- This is how azure makes sure high availability is maintained during any kind of system/infrstructure failure (local). Each availability zone has independant power, network, cooling, and is even in a geographically different place (even though typically still very close, i.e seperate building). 
 
-☁️ Azure Region PAIRS --- This is how Azure make sure high availbaility is maintained during any king of large scale event. In the event an Azure region is compromised, its pair region (typically far away enough to not also be effected by a large scale event, but close enough for latency issues). 
+☁️ AZURE REGION PAIRS --- This is how Azure make sure high availbaility is maintained during any king of large scale event. In the event an Azure region is compromised, its pair region (typically far away enough to not also be effected by a large scale event, but close enough for latency issues). 
 
 
  ☁️ Cloud Outcome
@@ -36,4 +36,4 @@
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
-!(https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-6983202048485769217-vV86?utm_source=share&utm_medium=member_desktop))
+(https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-6983202048485769217-vV86?utm_source=share&utm_medium=member_desktop))
