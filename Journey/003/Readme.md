@@ -1,49 +1,30 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Azure Region Pairs and Availability Zones
 
-## Introduction
+![aZure region](https://user-images.githubusercontent.com/102994059/193945388-da274f74-8b3d-446a-8a6a-63b0dbff318e.png)
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+ Introduction
 
-## Prerequisite
+☁️ Day 2 we briefly touched on resilency, or the ability of a system to stay up after experiencing challenges/faults. A key way azure is able to do this is Availability zones, and Azure Region Pairs
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+ Prerequisite
 
-## Use Case
+☁️ It would be beneficial to understand high availability and resielency before reading this lesson
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
 
-## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+ ☁️☁️☁️Cloud Research
 
-## Try yourself
+☁️
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
-### Step 1 — Summary of Step
+ ☁️ Cloud Outcome
 
-![Screenshot](https://via.placeholder.com/500x300)
+☁️ (Result) Describe your personal outcome, and lessons learned.
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
 
