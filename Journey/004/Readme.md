@@ -1,52 +1,28 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Resources and Resource Groups 
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+☁️ (Why) The first 10 days we are sticking to the basics, sort of an introduction to azure and familiarzing ourselves. Today we look at the building block of Microsofts cloud, Resources. 
 
-## Prerequisite
+☁️ a resource is an entity managed by Azure. The most basic example being a virtual machine (vm). There are many types of resources azure offers. Some (but not all of them) include SQL Database, Azure Cosmos DB, Ubuntu Server, a storage account, key valut etc. As you can imagine, to build up a network in azure, you will need many resources working together to accomplish your business needs. 
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Resources can be grouped together, in Resource Groups. This is a way to group the resources together for whatever purpose / reason makes most sense to accomplishing your goals. 
 
-## Use Case
+Below is a screenshot of what you will see in azure after clicking "create a resource" in the Azure Portal. Some examples of the plethora of resource options azure offers!!!
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+![azure resources](https://user-images.githubusercontent.com/102994059/194436982-808162f5-bdd6-4fe4-b9d8-8b9b5033a203.jpg)
 
-## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
 
-## Try yourself
+☁️ Cloud Outcome
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+☁️ We kept it simple again today, reviewing the most foundational peices of azure, resources. We will continue to cover the basics and gradually get more and more in depth. 
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
-
+☁️ Actually creating a resource would be a fun idea for a day. Perhaps starting up a linux VM 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+☁️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-6983932934516830208-wmAo?utm_source=share&utm_medium=member_desktop)
