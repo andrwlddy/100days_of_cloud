@@ -18,7 +18,7 @@
 
 ☁️ Cloud Outcome
 
-☁️ We kept it simple again today, reviewing the most foundational peices of azure, resources. We will continue to cover the basics and gradually get more and more in depth. 
+☁️ We kept it simple again today, reviewing the most foundational pieces of azure, resources. We will continue to cover the basics and gradually get more and more in depth. 
 
 ## Next Steps
 
