@@ -6,9 +6,11 @@
 
 ☁️ a resource is an entity managed by Azure. The most basic example being a virtual machine (vm). There are many types of resources azure offers. Some (but not all of them) include SQL Database, Azure Cosmos DB, Ubuntu Server, a storage account, key valut etc. As you can imagine, to build up a network in azure, you will need many resources working together to accomplish your business needs. 
 
-Resources can be grouped together, in Resource Groups. This is a way to group the resources together for whatever purpose / reason makes most sense to accomplishing your goals. 
+☁️Resources can be grouped together, in Resource Groups. This is a way to group the resources together for whatever purpose / reason makes most sense to accomplishing your goals. 
 
-Below is a screenshot of what you will see in azure after clicking "create a resource" in the Azure Portal. Some examples of the plethora of resource options azure offers!!!
+☁️Resource Groups can NOT be nested, and a resource can only belong in one Resource Group.
+
+☁️Below is a screenshot of what you will see in azure after clicking "create a resource" in the Azure Portal. Some examples of the plethora of resource options azure offers!!!
 
 ![azure resources](https://user-images.githubusercontent.com/102994059/194436982-808162f5-bdd6-4fe4-b9d8-8b9b5033a203.jpg)
 
