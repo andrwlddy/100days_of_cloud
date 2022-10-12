@@ -1,7 +1,8 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-(https://user-images.githubusercontent.com/102994059/195219627-b012ce2e-ba2a-4e2b-8afb-2f90e5cb42fb.png)
+
+![app-management-overview](https://user-images.githubusercontent.com/102994059/195219670-883b0085-fe1a-4b9e-9c1f-54cf9e7017db.png)
 
 
 ## Introduction
