@@ -1,54 +1,28 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+
+
 
 
 ![app-management-overview](https://user-images.githubusercontent.com/102994059/195219670-883b0085-fe1a-4b9e-9c1f-54cf9e7017db.png)
 
 
-## Introduction
+## AZURE ACTIVE DIRECTORY
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+☁️ Indentity and Access Management is essential to any service. Diving into Azure's cloud based IAM service is very important in understanding the basics of Azure, especially with security in mind. 
 
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+☁️☁️☁️ As previously stated, Azure AD is Azures IAM service. This service allows everyone (who is intended to) access the plethora of services and apps Azure comes with.
 
-## Try yourself
+☁️☁️☁️ Azure AD Tenants are a very important concept to understand as well. Tenants are specific instances of Azure AD. So, for example, a company may have different tenants across its entire cloud environment, but typically smaller and middle sized companies will have one tenant for everything. 
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+☁️☁️☁️ We will come back to Azure AD as we go into more detail, and start studying for a more advance certification!
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+☁️☁️☁️I posted about this on Linkedin!! see link below
 
-[link](link)
+[linkedin post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-cloud-azure-activity-6985753920702705664-sTpo?utm_source=share&utm_medium=member_desktop)
