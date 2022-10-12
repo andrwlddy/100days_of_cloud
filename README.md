@@ -30,7 +30,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 2 > [Advantages of Cloud](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [Redundancy](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [Resources and RGs](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [ARM](Journey/005/Readme.md)
+- [ ] ☁️ 5 > [Azure AD](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
