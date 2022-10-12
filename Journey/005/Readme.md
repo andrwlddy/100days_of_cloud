@@ -1,7 +1,8 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+(https://user-images.githubusercontent.com/102994059/195219627-b012ce2e-ba2a-4e2b-8afb-2f90e5cb42fb.png)
+
 
 ## Introduction
 
