@@ -1,52 +1,37 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+SUBSCRIPTIONS AND MANAGMENT GROUPS 
+ 
+ 
+ ![azure subscriptions](https://user-images.githubusercontent.com/102994059/195947235-843a73fe-f75d-420a-87ed-563773d76bdb.png)
 
-# New post title here
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+☁️ Previously we went over resources and resource groups. Now , we continue up the heirarchy within azure to subscriptions and management groups. I really do beleive the best way to think about it is a heirarchy, as this is the easies way to udnerstand how resources, resource groups, subscripotions and management groups relate to eachother. The photo above does a great job encapturing this heirarchy. 
 
-## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
 
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+☁️☁️☁️ Subscriptions
 
-## Try yourself
+Microsoft defines a subscription as "an agreement with Microsoft to use one or more Microsoft cloud platforms or services, for which charges accrue based on either a per-user license fee or on cloud-based resource consumption"
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+☁️☁️☁️ Management Groups 
 
-### Step 1 — Summary of Step
+Management Groups are simply a way to organize your subscriptions. They are at a level above subscriptions, and can be stacked within eachother. 
 
-![Screenshot](https://via.placeholder.com/500x300)
+☁️ Cloud Outcome 
 
-### Step 1 — Summary of Step
+we have gone over a lot of the basics, and will continue until we get outside of the first 10 days of learning. I look forward to more in depth projects!
 
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+To conclude, today we essentially finished off the heirarchy within azure that we started several cloud days ago. We know understand that resources are grouped into resources groups. Resource groups are typically grouped into subscriptions, which also define costs and what accounts are to be billed. If a company has many subscriptions, they can group subscriptions into management groups. 
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+☁️ Describe what you think you think you want to do next.
 
 ## Social Proof
+ Show that you shared your process on Twitter or LinkedIn
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[link](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-6986806915209011200-kjkY?utm_source=share&utm_medium=member_desktop)
