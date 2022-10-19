@@ -12,18 +12,25 @@
 ## Cloud Research
 
 
+![MFA](https://user-images.githubusercontent.com/102994059/196568458-a9733166-fc18-423c-b986-53bf61f01d26.jpg)
 
-### Step 1 — Summary of Step
+MFA
 
-![Screenshot](https://via.placeholder.com/500x300)
+  you can see the MFA page, where users can be edited and MFA can be allowed. 
 
-### Step 1 — Summary of Step
+DEVICES
 
-![Screenshot](https://via.placeholder.com/500x300)
+![devices](https://user-images.githubusercontent.com/102994059/196568722-15dde769-c196-4aae-8dca-dfe7d9e84346.jpg)
 
-### Step 3 — Summary of Step
+An overall snapshot of the devices on your network. I have 0 at the moment 
 
-![Screenshot](https://via.placeholder.com/500x300)
+
+CONDITIONAL ACCESS
+
+![CA](https://user-images.githubusercontent.com/102994059/196568733-7c2d3442-f450-4669-9a06-fb36284afab0.jpg)
+
+Conidtional access is vital to IAM security in Azure. Here, you can (with a premium subscription that I dont have :() set conditional access rules for your resources. These are created with a condition followed by a control. (You can see two examples in the image above)
+
 
 ## ☁️ Cloud Outcome
 
@@ -31,10 +38,10 @@
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+IAM in Azure is someting that particularly interest me. So we may continue to dive into other IAM related topics
 
 ## Social Proof
 
 
 
-[linkedin post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-6988291368255168512-kpi7?utm_source=share&utm_medium=member_desktop))
+[linkedin post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-6988291368255168512-kpi7?utm_source=share&utm_medium=member_desktop)
