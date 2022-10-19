@@ -35,6 +35,6 @@
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
 
-[linkedin post]([link](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-6988291368255168512-kpi7?utm_source=share&utm_medium=member_desktop))
+
+[linkedin post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-6988291368255168512-kpi7?utm_source=share&utm_medium=member_desktop))
