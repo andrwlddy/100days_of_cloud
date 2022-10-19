@@ -1,29 +1,17 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Azure AD Pt. 2
+![Screenshot 2022-10-18 195947](https://user-images.githubusercontent.com/102994059/196566800-a53e44e0-b2e8-4c40-afa6-09c767068302.jpg)
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+☁️ Azure AD is one of the most important areas to know, understand and learn for Azure. users, groups, roles and permissions are all defined here. Mastering it is a must!!!!
 
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
 
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
 ### Step 1 — Summary of Step
 
@@ -49,4 +37,4 @@
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post]([link](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-6988291368255168512-kpi7?utm_source=share&utm_medium=member_desktop))
