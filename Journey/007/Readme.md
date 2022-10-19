@@ -34,7 +34,7 @@ Conidtional access is vital to IAM security in Azure. Here, you can (with a prem
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+☁️☁️☁️ We dove a little deeper into some of the key pages in the Azure AD section of Azure today. We will continue down this path and continue to get more broad topics as well as some days that are more specific like today!
 
 ## Next Steps
 
