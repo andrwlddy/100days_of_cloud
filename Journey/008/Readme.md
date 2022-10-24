@@ -24,7 +24,7 @@ AZURE FUNCTIONS
 
 ☁️ Cloud Outcome
 
-    With Azure functions, you write less code and spend less time on the server and maintaing the environment, and more time writng your code and working on your apps. 
+    With Azure functions, you write less code and spend less time on the server and maintaining the environment, and more time writng your code and working on your apps. 
 
 
 ## Social Proof
