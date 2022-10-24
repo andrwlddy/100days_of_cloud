@@ -1,5 +1,9 @@
 
 AZURE FUNCTIONS
+
+
+
+
 ![af](https://user-images.githubusercontent.com/102994059/197619198-ea319823-1bfc-4d6a-9f8d-71b222f9c0e6.png)
 
 ## Introduction
@@ -27,4 +31,4 @@ AZURE FUNCTIONS
 
 ☁️ Show that you shared your process on Twitter or LinkedIn
 
-[linked in]([ink](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-6990406071785775104-XNGF?utm_source=share&utm_medium=member_desktop)
+[linked in](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-6990406071785775104-XNGF?utm_source=share&utm_medium=member_desktop)
