@@ -22,10 +22,12 @@ Public, Private, and Hybrid clouds are the three main types of cloud. They each 
 
 
 ☁️☁️☁️PRIVATE CLOUD
+
 This is a cloud environment but only for one specific company. This is more secure than pubilc, but also a lot more maintenance as this is CAPEX spending. All the infrstrucutre has to be paid in advance, and maintainged by the company that owns it. This is a lot like on prem from a cost and maintenance perspective. 
 
 
 ☁️☁️☁️HYBRID CLOUD
+
 Hybrid cloud is simply when a company uses at least 2 different cloud environments. This is typically a public and a private cloud, but technically oculd be any two environments (could be 2 public for example)
  
 ☁️☁️☁️Multicloud 
