@@ -1,52 +1,38 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+PUBLIC, PRIVATE, AND HYBRID CLOUDS
 
-# New post title here
+
+![ssss](https://user-images.githubusercontent.com/102994059/199616958-9cb1db8d-fa79-47c3-988e-acae4a9f8056.jpg)
+
+
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+As we roundout the first ten days of this challenge, we will continue to keep it relatively simple. Since there are 100 days and plenty to delve into, I am intentionally keeping to the basics early on. It is my goal that while I continue to complete day after day, I am able to pass the AZ-900 and then move on to a more in depth certificaiton after that as well. 
 
-## Prerequisite
+Public, Private, and Hybrid clouds are the three main types of cloud. They each have advantages and disadvantages. 
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
 
-## Use Case
+☁️☁️☁️PUBLIC CLOUD
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+  This is the most common type of cloud. This is where a company like Microsoft, Google, IBM, Amazon etc. make computing resources avaliable on demand. This is the opex spending model we went into earlier in this challenge. 
+  
+  These resources are available to the general pulic. (anyone can go on Azure protal and spin up a VM in a matter of minutes). 
+  
+  The most common public clouds right now are Microsoft Azure and Amazon Web Services (AWS). 
 
-## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+☁️☁️☁️PRIVATE CLOUD
+This is a cloud environment but only for one specific company. This is more secure than pubilc, but also a lot more maintenance as this is CAPEX spending. All the infrstrucutre has to be paid in advance, and maintainged by the company that owns it. This is a lot like on prem from a cost and maintenance perspective. 
 
-## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+☁️☁️☁️HYBRID CLOUD
+Hybrid cloud is simply when a company uses at least 2 different cloud environments. This is typically a public and a private cloud, but technically oculd be any two environments (could be 2 public for example)
+ 
+☁️☁️☁️Multicloud 
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
+This is when at least 2 public clouds are used. This is often confused with Hybrid cloud, however the main thing to remember is Multicloud is multiple public. Hybrid is any 2 environments
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post]([link](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-6993709692258549760-RjFH?utm_source=share&utm_medium=member_desktop)
