@@ -33,8 +33,8 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 5 > [Azure AD](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [subscriptions and management groups](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [Azure AD pt.2](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [Virtual Machines](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
+- [ ] ☁️ 8 > [Azure Functions](Journey/008/Readme.md)
+- [ ] ☁️ 9 > [VIrtual Machines](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
 ## Walking down the road
