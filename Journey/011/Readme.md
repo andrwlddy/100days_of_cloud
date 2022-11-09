@@ -4,7 +4,7 @@ CREATING AN AZURE RESOURCE LOCK
 
 
 ## Introduction
-☁️ wHAT IS A RESOURCE LOCK?
+☁️ WHAT IS A RESOURCE LOCK?
 
   Azure allows you to create "Resource Locks" on resources. This is a way to protect the resource from user acitivty you DONT want to occur. For example, if you want a resource to not be able to be delted, you can create a lock and apply it to that resource. 
 
