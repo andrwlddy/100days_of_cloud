@@ -1,52 +1,44 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+CREATING AN AZURE RESOURCE LOCK 
 
-# New post title here
+![arl](https://user-images.githubusercontent.com/102994059/200705213-924c5a10-243e-4fe5-92b6-85235ab59ed7.png)
+
 
 ## Introduction
+☁️ wHAT IS A RESOURCE LOCK?
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+  Azure allows you to create "Resource Locks" on resources. This is a way to protect the resource from user acitivty you DONT want to occur. For example, if you want a resource to not be able to be delted, you can create a lock and apply it to that resource. 
 
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+☁️☁️☁️ CREATING A RESOURCE LOCK
 
-## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+### Step 1 — creating a resource group
+![screenshot1](https://user-images.githubusercontent.com/102994059/200705994-62968630-c797-4660-a646-7a57da6a5657.jpg)
 
-### Step 1 — Summary of Step
+Above is a quick image from us creatinga our resource group. Resource groups we have already gone over in this challenge. Since we will be applying this lock to a resource group, creating a resource group is of course step 1. 
 
-![Screenshot](https://via.placeholder.com/500x300)
+### Step 2 — Creating the resource lock 
 
-### Step 1 — Summary of Step
+![screenshot2](https://user-images.githubusercontent.com/102994059/200706467-fbe2c536-c42e-4c27-860d-4874aa5a37fb.jpg)
 
-![Screenshot](https://via.placeholder.com/500x300)
+Highlighted you can see the Locks section. From there, we click "add" (also highlighted). We then are given two options....
 
-### Step 3 — Summary of Step
+Read Only and Delete. These are the two different types of locks in Azure. 
 
-![Screenshot](https://via.placeholder.com/500x300)
+The difference between these two is actually not quite as simple as you might think, as the specific resource this lock is attached to impacts what it does. For further information on these, look at the azure documentation here : https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources?tabs=json 
+
+
+
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+Today we learned what an Azure resource lock was, and we step  by step learned how to create one. 
 
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post]([link](https://www.linkedin.com/feed/update/urn:li:share:6995907261663485952/)
