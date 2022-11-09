@@ -41,4 +41,4 @@ Today we learned what an Azure resource lock was, and we step  by step learned h
 
  Show that you shared your process on Twitter or LinkedIn
 
-[linkedin post]([link](https://www.linkedin.com/feed/update/urn:li:share:6995907261663485952/)
+[linkedin post](https://www.linkedin.com/feed/update/urn:li:share:6995907261663485952/)
