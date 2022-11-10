@@ -39,8 +39,8 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Walking down the road
 
-- [ ] ☁️ 11 > [creating a resource lock](Journey/011/Readme.md)
-- [ ] ☁️ 12 > [](Journey/012/Readme.md)
+- [ ] ☁️ 11 > [Exercise- creating a resource lock](Journey/011/Readme.md)
+- [ ] ☁️ 12 > [Exercise- Restrict deployments to a location using Azure Policy](Journey/012/Readme.md)
 - [ ] ☁️ 13 > [](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
