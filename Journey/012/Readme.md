@@ -1,49 +1,64 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+Exercise: Restrict deployments to a locatin using Azure Policy
 
-# New post title here
+
+![image-29](https://user-images.githubusercontent.com/102994059/201111798-ff0dd8cc-b520-47c7-bb7a-93c3b7822d07.png)
+
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+☁️ (Why) Understandig Azure Policy is important for anyone that will be using Azure. This exercise will teach us about Azure Policy, and then how to use it. 
 
-## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
 
-## Use Case
+WHAT IS AZURE POLICY?
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Much like the name suggest, Azure policy is used to enforce company wide standards/policies. it provides an aggregated view to evaluate the overall state of the environment, with the ability to drill down to the per-resource, per-policy granularity. 
 
-## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
 
-## Try yourself
+## EXERCISE
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
-### Step 1 — Summary of Step
+### Step 1 — Create a resource group
+  
+  we did this last exercise.. so we will not show you how to do this. You do need a resrouce group to continue however
 
-![Screenshot](https://via.placeholder.com/500x300)
 
-### Step 1 — Summary of Step
+### Step 2 — Head over to the Azure Policy page
 
-![Screenshot](https://via.placeholder.com/500x300)
+From the home screen, simply search "policy" and you will be taken to the policy page
 
-### Step 3 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+
+### Step 3 — Explore predefined policies 
+
+(https://user-images.githubusercontent.com/102994059/201115737-c410b61b-ec32-4896-9e6e-96dfbcb72e40.jpg)
+
+is this pic above is the policy screen. There is a lot to do here, but to explore policies click "defintions" (highlighted). Predefined policies live here. 
+
+
+### Step 4 — Create the new policy 
+
+click on "assignments" to create a new policy. An assignment is a policy that has been assigned to take place within a specific scope. Click "Assign Policy" (highlighted below in image)
+
+
+![policy](https://user-images.githubusercontent.com/102994059/201116669-51b17c0f-3dea-4001-a694-65cb3b243260.jpg)
+
+Assign Policy Final Step
+
+![policy](https://user-images.githubusercontent.com/102994059/201117193-19c865d5-9c95-468e-b474-0c710a982ed0.jpg)
+
+From here, you can specify which policy you want to enforce, and to which scope. Notice the tabs as you will need to enter information into all of these tabs to fully assign the policy. Below is one last screenshot showing how we can specifically allow or deny resource creation by regions! Very cool!!!!
+
+![policy](https://user-images.githubusercontent.com/102994059/201118072-676b0665-1694-4752-b311-83bc6a322d7f.jpg)
+
+
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+☁️ (Result) Today we learned what Azure policy was, what an assignment was, and how to implement a policy in our cloud environment!!!
 
-## Next Steps
 
-✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
 
