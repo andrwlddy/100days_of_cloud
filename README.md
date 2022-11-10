@@ -17,7 +17,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 ## Andrew's Cloud Journey
 
 
-☁️ I have started this 100 days of cloud challenge to commit myself to learning Microsoft Azure. I am currently studying for the AZ-900 certification and after that I would love to get another certification, perhaps an Azure security certificaiton. My goal is to get both by the end of the year]
+☁️ I have started this 100 days of cloud challenge to commit myself to learning Microsoft Azure. I am currently studying for the AZ-900 certification and after that I would love to get another certification, perhaps an Azure security certificaiton. My goal is to get both by the end of the year
 
 ☁️ At the end of the challenge, I would love to already have the AZ-900, and potentially another certification as previously stated. I want to be comfortable and knowlegable on Azure and maybe even starting to look at AWS or GCP
 
