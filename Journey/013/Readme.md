@@ -28,4 +28,4 @@ Azure virtual network enables Azure resources to securely communicate with each 
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[linkedin post] (https://www.linkedin.com/feed/update/urn:li:share:6996593508874649600/](https://www.linkedin.com/feed/update/urn:li:share:6996926898362589184/)
+[linkedin post](https://www.linkedin.com/feed/update/urn:li:share:6996593508874649600/](https://www.linkedin.com/feed/update/urn:li:share:6996926898362589184/)
