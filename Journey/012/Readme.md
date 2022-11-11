@@ -64,4 +64,4 @@ From here, you can specify which policy you want to enforce, and to which scope.
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://www.linkedin.com/feed/update/urn:li:activity:6996593509587648512/)
