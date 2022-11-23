@@ -1,52 +1,39 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+Microsoft Cloud Adoption Framework
 
-# New post title here
+![plan,ready, adopt!](https://user-images.githubusercontent.com/102994059/203456297-35614ac4-edeb-4721-a3c7-b26a63088b4c.png)
+
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+The Microsoft Cloud Adoption Framework is very important for anyone considering or planning a cloud migration. Microsofts cloud adoption Framework is a guide to help you transistion to the cloud! A very difficult project is made easier with this framework. 
 
-## Prerequisite
+There are three main stages of the cloud adoption framework...
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+1- Plan
+  Rationalize your digital estate (fully understand where you are before the cloud)
+  Create your cloud adoption plan (prioritize workloads are defined and aligned with business needs)
 
-## Use Case
+2- Ready
+  Cloud adoption is a strategic change that requires involvement from both business decision makers and end users.
+  When you define skills and support readiness, create and implement a skills-readiness plan to address current gaps, ensure that people are ready for the change, and      define support needs.
+  The process of creating your landing zone sets up a migration target in the cloud to handle prioritized applications.
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+3- Adopt
+  Cloud migration is the process of moving existing digital assets to a cloud platform. Adopt is divided into two different options, migrate and innovate.
+  Each cloud migration activity is contained during one of the following processes, as it relates to the migration backlog: assess, migrate, optimize, and secure.     Then, you manage each backlog asset.
+Modernization and innovation in the IT portfolio create tighter alignment with DevOps and accelerate innovations across the digital estate and application portfolio.
 
-## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
 
-## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
-### Step 1 — Summary of Step
+## Key Takeaway
 
-![Screenshot](https://via.placeholder.com/500x300)
+	The three main components of the Cloud Adoption Framework (plan, ready, and adopt) can be applied to different stages for cloud adopters. They should be revisited often because cloud adoption is an ongoing journey, not a destination.
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post](https://www.linkedin.com/feed/update/urn:li:share:7001001666686656512/)
