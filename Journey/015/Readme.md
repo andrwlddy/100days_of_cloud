@@ -1,52 +1,39 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+Microsoft Well Architected Framework
 
-# New post title here
+![wellArchitectedAtMicrosoft](https://user-images.githubusercontent.com/102994059/203571262-4f440658-2545-45f5-9832-07210f1b2052.png)
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Today we go over another framework!!! Yesterday was cloud adoption. Today is Well architected framework. This is essentially a guide that goes into detail of best practices for building a cloud environemnt. The five pillars of this framework are all geared towards optimizing a workload.  
 
-## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
 
-## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+## Cloud Research ☁️☁️☁️
 
-## Cloud Research
+There are 5 pillars to the Microsoft well architected framework. These pillars are...
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+1- Reliability
 
-## Try yourself
+2- Security
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+3- Cost Optimization
 
-### Step 1 — Summary of Step
+4- Operational Excellence
 
-![Screenshot](https://via.placeholder.com/500x300)
+5- Performance Efficiency 
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+Azure Well Architected Review
 
-### Step 3 — Summary of Step
+Examine your workload through the lenses of reliability, cost management, operational excellence, security and performance efficiency [30-60 minutes].
 
-![Screenshot](https://via.placeholder.com/500x300)
+This is a review that can be done for your workload, seeing where you are efficient andy maybe where you arent. 
 
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+☁️☁️☁️
 
-[link](link)
+
+[linkedin post ](link)
