@@ -36,4 +36,4 @@ This is a review that can be done for your workload, seeing where you are effici
 ☁️☁️☁️
 
 
-[linkedin post ](link)
+[linkedin post ](https://www.linkedin.com/feed/update/urn:li:share:7003112844833529856/)
