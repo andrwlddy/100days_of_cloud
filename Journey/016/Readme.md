@@ -1,49 +1,36 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+Security Layers in a cloud environment
 
 # New post title here
 
+![defense-in-depth](https://user-images.githubusercontent.com/102994059/204687331-8c6efb81-8cb8-48c4-bec0-fe09ca1bdd7f.jpg)
+
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+☁️☁️☁️ (Why) A quick intro to azure security starts with the security layers. Below are specific examples with each layer!
 
-## Prerequisite
+At each layer, there are some common attacks that you'll want to protect against. The following list isn't all-inclusive, but it can give you an idea of how each layer can be attacked and what types of protections you might need.
+•	Data layer: Exposing an encryption key or using weak encryption can leave your data vulnerable if unauthorized access occurs.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+•	Application layer: Malicious code injection and execution are the hallmarks of application-layer attacks. Common attacks include SQL injection and cross-site scripting (XSS).
 
-## Use Case
+•	VM/compute layer: Malware is a common method of attacking an environment, which involves executing malicious code to compromise a system. After malware is present on a system, further attacks that lead to credential exposure and lateral movement throughout the environment can occur.
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+•	Networking layer: Unnecessary open ports to the internet are a common method of attack. These might include leaving SSH or RDP open to virtual machines. When these protocols are open, they can allow brute-force attacks against your systems as attackers attempt to gain access.
 
-## Cloud Research
+•	Perimeter layer: Denial-of-service (DoS) attacks often happen at this layer. These attacks try to overwhelm network resources, forcing them to go offline or making them incapable of responding to legitimate requests.
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+•	Policies and access layer: This layer is where authentication occurs for your application. This layer might include modern authentication protocols such as OpenID Connect, OAuth, or Kerberos-based authentication such as Active Directory. The exposure of credentials is a risk at this layer, and it's important to limit the permissions of identities. You also want to have monitoring in place to look for possible compromised accounts, such as logins coming from unusual places.
 
-## Try yourself
+•	Physical layer: Unauthorized access to facilities through methods, such as door drafting and theft of security badges, can happen at this layer.
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
 
 ## ☁️ Cloud Outcome
 
 ✍️ (Result) Describe your personal outcome, and lessons learned.
 
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+#
 
 ## Social Proof
 
