@@ -1,6 +1,5 @@
 Security Layers in a cloud environment
 
-# New post title here
 
 ![defense-in-depth](https://user-images.githubusercontent.com/102994059/204687331-8c6efb81-8cb8-48c4-bec0-fe09ca1bdd7f.jpg)
 
