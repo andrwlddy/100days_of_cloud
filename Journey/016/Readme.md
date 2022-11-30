@@ -30,4 +30,4 @@ At each layer, there are some common attacks that you'll want to protect against
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](https://www.linkedin.com/feed/update/urn:li:share:7003536077625901056/)
+[linkedIn post](https://www.linkedin.com/feed/update/urn:li:share:7003536077625901056/)
