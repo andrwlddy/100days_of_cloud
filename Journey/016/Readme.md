@@ -25,14 +25,9 @@ At each layer, there are some common attacks that you'll want to protect against
 
 
 
-## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-#
-
-## Social Proof
+☁️☁️☁️ Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://www.linkedin.com/feed/update/urn:li:share:7003536077625901056/)
