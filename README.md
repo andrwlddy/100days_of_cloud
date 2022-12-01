@@ -45,7 +45,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 14 > [Microsoft Cloud Adoption Framework](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [Microsoft Well Architected Framework](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [Layers of Security](Journey/016/Readme.md)
-- [ ] ☁️ 17 > [](Journey/017/Readme.md)
+- [ ] ☁️ 17 > [Zero Trust](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [](Journey/018/Readme.md)
 - [ ] ☁️ 19 > [](Journey/019/Readme.md)
 - [ ] ☁️ 20 > [](Journey/020/Readme.md)
