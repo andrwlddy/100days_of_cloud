@@ -1,52 +1,38 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+INTRODUCTION TO AZURE STORAGE
 
-# New post title here
 
-## Introduction
+![Storage-Account](https://user-images.githubusercontent.com/102994059/206031690-79592fc8-7f62-49d3-9ae7-362364c87c55.png)
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+☁️☁️☁️Azure Storage offers highly available, massively scalable, durable, and secure storage for a variety of data objects in the cloud
 
-## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
 
-## Use Case
+☁️☁️☁️WHAT ARE THE BENEFITS OF AZURE CLOUD STORAGE?
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Durability and High Availability
 
-## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+Security
 
-## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+Scalability
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+☁️☁️☁️AZURE STORAGE DATA SERVICES INCLUDE....
 
-### Step 1 — Summary of Step
+Azure Blobs
 
-![Screenshot](https://via.placeholder.com/500x300)
+Azure Files
 
-### Step 3 — Summary of Step
+Azure Queues
 
-![Screenshot](https://via.placeholder.com/500x300)
+Azure Tables
 
-## ☁️ Cloud Outcome
+Azure Disks
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+☁️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7006014493071679488-1J7x?utm_source=share&utm_medium=member_desktop)
