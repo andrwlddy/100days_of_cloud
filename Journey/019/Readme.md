@@ -1,52 +1,30 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+Azure Blob Storage Tiers
 
-# New post title here
+![1_3fTyortCSpUIYm7VPuFvIQ](https://user-images.githubusercontent.com/102994059/206301634-78877b1e-ba9a-47f2-985a-edee206ca1ce.png)
 
-## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+☁️☁️☁️ Why do we have Storage Tiers in Azure?? 
 
-## Prerequisite
+To manage costs for your expanding storage needs, it can be helpful to organize your data based on how frequently it will be accessed and how long it will be retained.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+☁️☁️☁️ What are the different storage tiers?
 
-## Use Case
+Hot tier - An online tier optimized for storing data that is accessed or modified frequently. The hot tier has the highest storage costs, but the lowest access costs.
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Cool tier - An online tier optimized for storing data that is infrequently accessed or modified. Data in the cool tier should be stored for a minimum of 30 days. The cool tier has lower storage costs and higher access costs compared to the hot tier.
 
-## Cloud Research
+Archive tier - An offline tier optimized for storing data that is rarely accessed, and that has flexible latency requirements, on the order of hours. Data in the archive tier should be stored for a minimum of 180 days.
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
 
-## Try yourself
+☁️☁️☁️ Online Storage Tiers
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+The hot and cool tiers are Online storge tiers. This means they can be accessed at any time. 
 
-### Step 1 — Summary of Step
+☁️☁️☁️ Archive access tier
 
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
+The Archive access tier can NOT be accessed immediately, whenver you want. This data needs to be "rehydrated" by azure before you can access/modify the data. This can take several hours or longer. The advantage to this is it is the cheapest way to store data in Azure, and ideal for data rarely accessed. 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7006372665338777600-x88F?utm_source=share&utm_medium=member_desktop)
