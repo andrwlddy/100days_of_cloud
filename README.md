@@ -48,7 +48,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 17 > [Zero Trust](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [Intro to Azure Storage](Journey/018/Readme.md)
 - [ ] ☁️ 19 > [Azure Blob Storage Tiers](Journey/019/Readme.md)
-- [ ] ☁️ 20 > [](Journey/020/Readme.md)
+- [ ] ☁️ 20 > [VPN Gateway](Journey/020/Readme.md)
 
 ## Crossing the bridge
 
