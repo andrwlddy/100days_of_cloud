@@ -39,4 +39,4 @@ Each virtual network can only have one virtual network gateway of each type. Whe
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post](https://www.linkedin.com/feed/update/urn:li:share:7006743650600656897/)
