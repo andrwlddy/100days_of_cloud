@@ -26,4 +26,4 @@ Because the connection is not over the public internet, this allows ExpressRoute
 -Layer 3 connectivity
 
 
-[link](link)
+[link](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7008184989502558208-BEDf?utm_source=share&utm_medium=member_desktop)
