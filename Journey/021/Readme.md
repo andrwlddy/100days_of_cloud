@@ -1,52 +1,26 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+EXPRESSROUTE
+![images](https://user-images.githubusercontent.com/102994059/207120809-374ebbf1-0585-422e-bd9b-1c4952f19bdb.png)
 
-# New post title here
 
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+☁️☁️☁️ WHAT IS EXPRESSROUTE?
 
-## Try yourself
+ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365.
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+    ExpressRoute connections do NOT go over the public internet
+    
+Because the connection is not over the public internet, this allows ExpressRoute connections to offer more reliability, faster speeds, consistent latencies, and higher security than typical connections over the Internet
 
-### Step 1 — Summary of Step
+☁️☁️☁️ Main benefits of express route
+-Express route allows organizations to connect to Microsoft cloud services anywhere in the world
+-Express route provides layer 3 connection between the Azure cloud and the local network
+-Express route increases reliability due to the built-in redundancy
+-Express route improves security and privacy by avoiding sensitive traffic going over the public internet
+-Supports business Skype
+-Characteristics of ExpressRoute
+-Layer 3 connectivity
 
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
 
 [link](link)
