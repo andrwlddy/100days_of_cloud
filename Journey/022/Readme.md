@@ -1,52 +1,11 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+AZ-900 PASSED!!!
 
-# New post title here
 
-## Introduction
+![azure-fundamentals-600x600-1](https://user-images.githubusercontent.com/102994059/207461571-4421ccb9-d1fc-4887-99b7-f851f8280066.png)
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Today I passed AZ-900!!!
 
-## Prerequisite
+Part of my goal for this cloud journey was to validate my skills with certificaitons. This is the first of hopefully several certifications I will attempt to get. I am looking towards a cloud secrutiy certificaiton next, potentially SC-200 
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
 
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[linkedin post](https://www.linkedin.com/posts/andrew-leddy_microsoft-certified-azure-fundamentals-was-activity-7008560990476738561-ULuT?utm_source=share&utm_medium=member_desktop)
