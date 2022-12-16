@@ -23,4 +23,4 @@ Unlike with traditional SIEM solutions, to run Microsoft Sentinel, you don't nee
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7009624055486029824--VWk?utm_source=share&utm_medium=member_desktop)
