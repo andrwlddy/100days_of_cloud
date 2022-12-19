@@ -54,8 +54,8 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 - [ ] ☁️ 21 > [ExpressRoute](Journey/021/Readme.md)
 - [ ] ☁️ 22 > [AZ-900 PASSED!!!!!](Journey/022/Readme.md)
-- [ ] ☁️ 23 > [Azure Sentinel](Journey/023/Readme.md)
-- [ ] ☁️ 24 > [](Journey/024/Readme.md)
+- [ ] ☁️ 23 > [Azure Sentinel Overview](Journey/023/Readme.md)
+- [ ] ☁️ 24 > [Sentinel Onboarding](Journey/024/Readme.md)
 - [ ] ☁️ 25 > [](Journey/025/Readme.md)
 - [ ] ☁️ 26 > [](Journey/026/Readme.md)
 - [ ] ☁️ 27 > [](Journey/027/Readme.md)
