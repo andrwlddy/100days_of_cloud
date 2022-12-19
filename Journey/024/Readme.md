@@ -1,49 +1,43 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+Sentinel Prerequisites
 
-# New post title here
 
-## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+![sentinel](https://user-images.githubusercontent.com/102994059/208499707-fcbaa15a-26d3-48d0-8ee2-dc123ba0fb4a.png)
 
-## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+What do you need to do before setting up Microsoft Sentinel? 
 
-## Use Case
+Thats what this post today will be about. Since I am going for SC-200 certificaiton, Azure Sentinel is something I will have to master in the upcoming weeks. I expect most of my future posts to be related to sentinel in some way. 
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Pre Deployment Activities
 
-## Cloud Research
+The pricing of Sentinel is something that is very important to consider. Below is the most up to date pricing models for Sentinel as of today, 12/19/22
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+![Sentinel Pricing](https://user-images.githubusercontent.com/102994059/208500778-e2871932-dd42-420a-b487-d2fbc0a86ff2.jpg)
 
-## Try yourself
+As you can see, there is a wide range of options and your direction needs to be determined before you start with sentinel. Like most things in the cloud, extensive planning is a requirement to successfuly implement this new tool. 
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+The first step is determining data sources and data size requirements to accurately project a budget. 
 
-### Step 1 — Summary of Step
+    Data sources, or data connectors,  enable you to use data connectors to configure connections with different Microsoft services, partner solutions, and other resources
 
-![Screenshot](https://via.placeholder.com/500x300)
+These are essentially different streams of data that are getting ingested into Sentinel, and of course the more data ingested, the more expensive sentinel is. Determing which data will be ingested into Sentinel is the first step. 
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+After this, its time to design a Sentinel Workspace. 
 
-### Step 3 — Summary of Step
+When planning your Microsoft Sentinel workspace deployment, you must also design your Log Analytics workspace architecture. Decisions about the workspace architecture are typically driven by business and technical requirements. things to consider include... 
 
-![Screenshot](https://via.placeholder.com/500x300)
+Whether you'll use a single tenant or multiple tenants
+Any compliance requirements you have for data collection and storage
+How to control access to Microsoft Sentinel data
+Cost implications for different scenarios
 
-## ☁️ Cloud Outcome
+We will go into more detail in a future space about workspace architecture. 
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
 
-## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+
 
 ## Social Proof
 
