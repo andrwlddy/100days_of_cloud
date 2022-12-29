@@ -39,4 +39,4 @@ The connector page shows instructions for configuring the connector, and any oth
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin](https://www.linkedin.com/feed/update/urn:li:share:7014339349613797376/)
