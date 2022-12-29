@@ -56,7 +56,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 22 > [AZ-900 PASSED!!!!!](Journey/022/Readme.md)
 - [ ] ☁️ 23 > [Azure Sentinel Overview](Journey/023/Readme.md)
 - [ ] ☁️ 24 > [Sentinel Prerequisites](Journey/024/Readme.md)
-- [ ] ☁️ 25 > [](Journey/025/Readme.md)
+- [ ] ☁️ 25 > [Onboarding Microsoft Sentinel](Journey/025/Readme.md)
 - [ ] ☁️ 26 > [](Journey/026/Readme.md)
 - [ ] ☁️ 27 > [](Journey/027/Readme.md)
 - [ ] ☁️ 28 > [](Journey/028/Readme.md)
