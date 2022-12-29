@@ -1,49 +1,39 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+Onboarding Sentinel
 
-# New post title here
+Our previous post discussed some of the prerequesites to consider before using sentinel. We continue in this post with more information on getting started in Sentinel. 
 
-## Introduction
+![cloudy](https://user-images.githubusercontent.com/102994059/209972283-d7c58259-91b7-422d-8d27-cbb021d5a2dd.png)
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
 
-## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+☁️☁️☁️Enabling Sentinel
 
-## Use Case
+This is actually really easy to do. You simply can type "sentinel" in the search bar on the azure portal. After clicking on Sentinel, and then clicking create, this is what you should see.... 
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+![workspace](https://user-images.githubusercontent.com/102994059/209974535-367d326e-e431-420d-bf0e-9260bce5e240.jpg)
 
-## Cloud Research
+    Workspaces are the basic management unit of Azure Monitor Logs
+    
+you will also need to specify a subscription and resource group wthin that subscrption
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
 
-## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+☁️☁️☁️ Setting up Data Connectors
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+Microsoft Sentinel ingests data from services and apps by connecting to the service and forwarding the events and logs to Microsoft Sentinel.
 
-### Step 3 — Summary of Step
+For physical and virtual machines, you can install the Log Analytics agent that collects the logs and forwards them to Microsoft Sentinel.
+For firewalls and proxies, Microsoft Sentinel installs the Log Analytics agent on a Linux Syslog server, from which the agent collects the log files and forwards them to Microsoft Sentinel.
+From the main menu, select Data connectors. This opens the data connectors gallery.
 
-![Screenshot](https://via.placeholder.com/500x300)
+Select a data connector, and then select the Open connector page button.
 
-## ☁️ Cloud Outcome
+The connector page shows instructions for configuring the connector, and any other instructions that may be necessary.
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
 
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
 
