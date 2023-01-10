@@ -1,52 +1,36 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+SENTINEL WATCHLISTS
 
-# New post title here
 
-## Introduction
+![WATCH1](https://user-images.githubusercontent.com/102994059/211680209-4c0021c6-98a9-45a2-a4ec-0c2ba1eafd55.png)
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
 
-## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+☁️☁️ WHAT ARE WATCHLISTS?
 
-## Use Case
+Microsoft Sentinel provides a table to store list data accessible to Kusto Query Language (KQL) queries. The Watchlists page in Microsoft Sentinel provides the management options to maintain the lists.
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Microsoft Sentinel watchlists enable collecting data from external data sources for correlation with the events in your Microsoft Sentinel environment. Once created, you can use watchlists in your search, detection rules, threat hunting, and response playbooks. Watchlists are stored in your Microsoft Sentinel workspace as name-value pairs and are cached for optimal query performance and low latency.
 
-## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+☁️☁️ ADVANTAGES OF WATCHLISTS
 
-## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+Investigating threats and responding to incidents quickly with the rapid import of IP addresses, file hashes, and other data from CSV files. Once imported, you can use watchlist name-value pairs for joins and filters in alert rules, threat hunting, workbooks, notebooks, and general queries.
 
-### Step 1 — Summary of Step
+Importing business data as a watchlist. For example, import user lists with privileged system access, or terminated employees, and then use the watchlist to create allowlists and blocklists used to detect or prevent those users from logging in to the network.
 
-![Screenshot](https://via.placeholder.com/500x300)
+Reducing alert fatigue. Create allowlists to suppress alerts from a group of users, such as users from authorized IP addresses that perform tasks that would normally trigger the alert, and prevent benign events from becoming alerts.
 
-### Step 1 — Summary of Step
+Enriching event data. Use watchlists to enrich your event data with name-value combinations derived from external data sources.
 
-![Screenshot](https://via.placeholder.com/500x300)
+![WATCH2](https://user-images.githubusercontent.com/102994059/211680262-1d5cd825-0fdd-48e3-be8f-9e387c23901d.png)
 
-### Step 3 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
 
-## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7018714433963077633-e5wK?utm_source=share&utm_medium=member_desktop)
