@@ -59,7 +59,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 25 > [Onboarding Microsoft Sentinel](Journey/025/Readme.md)
 - [ ] ☁️ 26 > [Sentinel Watchlists](Journey/026/Readme.md)
 - [ ] ☁️ 27 > [KQL](Journey/027/Readme.md)
-- [ ] ☁️ 28 > [](Journey/028/Readme.md)
+- [ ] ☁️ 28 > [Microsoft 365 Defender](Journey/028/Readme.md)
 - [ ] ☁️ 29 > [](Journey/029/Readme.md)
 - [ ] ☁️ 30 > [](Journey/030/Readme.md)
 
