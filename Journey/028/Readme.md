@@ -1,52 +1,46 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+MICROSOFT 365 DEFENDER INTRO 
 
-# New post title here
+![Microsoft_Defender-Microsoft_365_Defender](https://user-images.githubusercontent.com/102994059/212192835-c691ae59-f559-48f1-bc35-585868f02330.png)
 
-## Introduction
+Microsoft 365 Defender is a unified pre- and post-breach enterprise defense suite that natively coordinates detection, prevention, investigation, and response across endpoints, identities, email, and applications to provide integrated protection against sophisticated attacks.
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
 
-## Prerequisite
+There are a bunch of different products and solutions for Microsoft Defender. The list below can be viewed as subcategories of 365 defender
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Microsoft Defender for Endpoint
 
-## Use Case
+Microsoft Defender for Office 365
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Microsoft Defender for Identity 
 
-## Cloud Research
+Microsoft Defender for Cloud Apps
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+Microsoft Defender Vulnerability Management
 
-## Try yourself
+Azure Active Directory Identity Protection
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+Microsoft Data Loss Prevention
 
-### Step 1 — Summary of Step
+App Governance
 
-![Screenshot](https://via.placeholder.com/500x300)
+Microsoft Defender for cloud 
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
 
-### Step 3 — Summary of Step
+    The Microsoft 365 Defender portal is a unified view of incidents and actions taken.
+    
+    
+ 
+Get started
+Microsoft 365 Defender licensing requirements must be met before you can enable the service in the Microsoft 365 Defender portal at https://security.microsoft.com For more information, see:
 
-![Screenshot](https://via.placeholder.com/500x300)
+Licensing requirements https://learn.microsoft.com/en-us/microsoft-365/security/defender/prerequisites?view=o365-worldwide#licensing-requirements
+Turn on Microsoft 365 Defender https://learn.microsoft.com/en-us/microsoft-365/security/defender/m365d-enable?view=o365-worldwide
 
-## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7019424324805652481-65TE?utm_source=share&utm_medium=member_desktop)
