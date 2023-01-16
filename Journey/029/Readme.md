@@ -23,6 +23,18 @@ You can view all the alerts related to the incident and other information about 
 
 By default, the alerts are ordered chronologically to allow you to first view how the attack played out over time. Clicking on each alert will lead you to the relevant alert page, where you can conduct an in-depth investigation of that alert.
 
+☁️☁️☁️ MANAGE AND INVESTIGATE ALERTS 
+
+Alerts are given a severity, which is defined below: 
+
+Severity
+High (Red) - Alerts commonly seen associated with advanced persistent threats (APT). These alerts indicate a high risk because of the severity of damage they can inflict on devices. Examples include credential theft tools activities, ransomware activities not associated with any group, tampering with security sensors, or any malicious activities indicative of a human adversary.
+
+Medium (Orange) - Alerts from endpoint detection and response post-breach behaviors that might be a part of an advanced persistent threat (APT). This includes observed behaviors typical of attack stages, anomalous registry change, execution of suspicious files, and so forth. Although some might be part of internal security testing, it requires investigation as it might also be a part of an advanced attack.
+
+Low (Yellow) - Alerts on threats associated with prevalent malware. For example, hack-tools, non-malware hack tools, such as running exploration commands, clearing logs, etc. often don't indicate an advanced threat targeting the organization. It could also come from an isolated security tool testing by a user in your organization.
+
+Informational (Grey) - Alerts that might not be considered harmful to the network but can drive organizational security awareness on potential security issues.
 
 
 ## Social Proof
