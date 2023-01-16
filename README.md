@@ -61,7 +61,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 27 > [KQL](Journey/027/Readme.md)
 - [ ] ☁️ 28 > [Microsoft 365 Defender](Journey/028/Readme.md)
 - [ ] ☁️ 29 > [Microsoft 365 Incidents and alerts](Journey/029/Readme.md)
-- [ ] ☁️ 30 > [](Journey/030/Readme.md)
+- [ ] ☁️ 30 > [Advanced Hunting with Microsoft 365 Defender](Journey/030/Readme.md)
 
 ## Into the bushy, thorny forest
 
