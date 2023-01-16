@@ -1,29 +1,29 @@
 MICROSOFT 365 INCIDENTS AND ALERTS
 
 
-## Try yourself
+☁️☁️☁️ what is an incident?
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+Incidents are based on related alerts created when a malicious event or activity is seen on your network. Individual alerts provide valuable clues about an on-going attack. However, attacks typically employ various vectors and techniques to carry out a breach. Piecing individual clues together can be challenging and time-consuming.
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+    An incident is a collection of correlated alerts that make up the story of an attack. 
 
-### Step 1 — Summary of Step
+☁️☁️☁️ Managaing Incidents
 
-![Screenshot](https://via.placeholder.com/500x300)
+You can edit the name of an incident, resolve it, set its classification and determination. You can also assign the incident to yourself, add incident tags and comments.
 
-### Step 3 — Summary of Step
+In cases where you would like to move alerts from one incident to another, during an investigation, you can also do so from the Alerts tab. Using the Alerts tab allows you to create a larger or smaller incident that includes all relevant alerts.
 
-![Screenshot](https://via.placeholder.com/500x300)
 
-## ☁️ Cloud Outcome
+☁️☁️☁️ Microsoft 365 Defender is aligned to the MITRE ATT&CK™ framework.
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+☁️☁️☁️ Alerts
 
-## Next Steps
+You can view all the alerts related to the incident and other information about them such as severity, entities that were involved in the alert, the source of the alerts (Microsoft Defender for Identity, Microsoft Defender for Endpoint, Microsoft Defender for Office 365), and the reason they were linked together.
 
-✍️ Describe what you think you think you want to do next.
+By default, the alerts are ordered chronologically to allow you to first view how the attack played out over time. Clicking on each alert will lead you to the relevant alert page, where you can conduct an in-depth investigation of that alert.
+
+
 
 ## Social Proof
 
