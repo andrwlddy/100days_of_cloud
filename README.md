@@ -65,7 +65,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Into the bushy, thorny forest
 
-- [ ] ☁️ 31 > [Investigate Azure AD sign-in logs] (Journey/031/Readme.md)
+- [ ] ☁️ 31 > [Investigate Azure AD sign-in logs](Journey/031/Readme.md)
 - [ ] ☁️ 32 > [](Journey/032/Readme.md)
 - [ ] ☁️ 33 > [](Journey/033/Readme.md)
 - [ ] ☁️ 34 > [](Journey/034/Readme.md)
