@@ -10,4 +10,4 @@ https://mslearn.cloudguides.com/guides/Investigate%20security%20incidents%20in%2
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link]([link](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7024143033495355392-Zb_N?utm_source=share&utm_medium=member_desktop))
+[link](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7024143033495355392-Zb_N?utm_source=share&utm_medium=member_desktop)
