@@ -68,7 +68,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 31 > [Investigate Azure AD sign-in logs](Journey/031/Readme.md)
 - [ ] ☁️ 32 > [A deeper dive into KQL](Journey/032/Readme.md)
 - [ ] ☁️ 33 > [Investigate security incident in Microsoft 365 Defender-- Activity](Journey/033/Readme.md)
-- [ ] ☁️ 34 > [](Journey/034/Readme.md)
+- [ ] ☁️ 34 > [Microsoft Defender for Office 365](Journey/034/Readme.md)
 - [ ] ☁️ 35 > [](Journey/035/Readme.md)
 - [ ] ☁️ 36 > [](Journey/036/Readme.md)
 - [ ] ☁️ 37 > [](Journey/037/Readme.md)
