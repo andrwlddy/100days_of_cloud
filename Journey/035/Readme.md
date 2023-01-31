@@ -1,52 +1,45 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+DEFENDER FOR ENDPOINT
 
-# New post title here
+☁️☁️☁️ OPERATING SYTEMS
 
-## Introduction
+Microsoft Defender for Endpoint is available on the following Operating Systems:
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Windows
+macOS
+Linux
+Android
+iOS
 
-## Prerequisite
+Microsoft Defender for Endpoint on macOS
+Microsoft Defender for Endpoint on macOS offers antivirus, endpoint detection and response (EDR), and vulnerability management capabilities for the three latest released versions of macOS. Customers can deploy and manage the solution through Microsoft Endpoint Manager and Jamf. Just like with Microsoft Office applications on macOS, Microsoft AutoUpdate is used to manage Microsoft Defender for Endpoint on Mac updates.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Microsoft Defender for Endpoint on Linux
+Microsoft Defender for Endpoint on Linux offers preventative antivirus (AV), endpoint detection and response (EDR), and vulnerability management capabilities for Linux servers. This includes a full command line experience to configure and manage the agent, initiate scans, and manage threats. We support recent versions of the six most common Linux Server distributions: RHEL 7.2+, CentOS Linux 7.2+, Ubuntu 16 LTS, or higher LTS, SLES 12+, Debian 9+, and Oracle Linux 7.2. Microsoft Defender for Endpoint on Linux can be deployed and configured using Puppet, Ansible, or using your existing Linux configuration management tool.
 
-## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+SOME ADVANCED FEATURES
 
-## Cloud Research
+☁️☁️☁️ Autoresolve remediated alerts
+For tenants created on or after Windows 10, version 1809, the automated investigation, and remediation capability is configured by default to resolve alerts where the automated analysis result status is "No threats found" or "Remediated". If you don't want to have alerts auto resolved, you'll need to manually turn off the feature.
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
 
-## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+☁️☁️☁️Always remediate PUA
+Potentially unwanted applications (PUA) are a category of software that can cause your machine to run slowly, display unexpected ads, or at worst, install other software, which might be unexpected or unwanted.
 
-### Step 1 — Summary of Step
+Turn on this feature so that potentially unwanted applications (PUA) are remediated on all devices in your tenant even if PUA protection isn't configured on the devices. This activation of the feature helps to protect users from inadvertently installing unwanted applications on their device. When turned off, remediation is dependent on the device configuration.
 
-![Screenshot](https://via.placeholder.com/500x300)
+☁️☁️☁️Tamper protection
+During some kinds of cyber attacks, bad actors try to disable security features, such as anti-virus protection, on your machines. Bad actors like to disable your security features to get easier access to your data, to install malware, or to otherwise exploit your data, identity, and devices.
 
-### Step 1 — Summary of Step
+Tamper protection essentially locks Microsoft Defender Antivirus and prevents your security settings from being changed through apps and methods.
 
-![Screenshot](https://via.placeholder.com/500x300)
+This feature is available if your organization uses Microsoft Defender Antivirus and Cloud-based protection is enabled.
 
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+Leave tamper protection turned on to prevent unwanted changes to your security solution and its essential features.
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7026301333104119808-kv7h?utm_source=share&utm_medium=member_desktop)
