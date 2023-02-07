@@ -1,52 +1,48 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+Creating a Powershell Script 
 
-# New post title here
+Today we are doing a project :)
 
-## Introduction
+  
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+☁️☁️☁️ Requirments for our powershell script 
 
-## Prerequisite
+  1- Create multiple VMs (this script will need to be in a loop)
+  2- Create three VMs in 3 different Resource Groups (RG name will have to be a parameter)
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
 
-## Use Case
+☁️☁️☁️ Background Information for Scripts/ Scripting
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+☁️Script extentions 
 
-## Cloud Research
+  This is the ending of the name of the script, which indicates which scrpiting language is in the script. 
+  
+  powershell the extenstion is .ps1
+  
+  Bash the extention is .sh 
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
 
-## Try yourself
+☁️Comments
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+  Comments are important to allow easy understanding of the script. Comments are marked with a "#" at the beginning of the line
+  
+  Nothing after the "#" is read in the script / executed, it is just there for human reading
+  
+  
+  
+Activity location : https://learn.microsoft.com/en-us/training/modules/automate-azure-tasks-with-powershell/8-exercise-create-resource-using-script 
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+The script we completed and successfully tested was as follows 
 
-### Step 1 — Summary of Step
+    param([string]$resourceGroup)
+    $adminCredential = Get-Credential -Message "Enter a username and password for the VM administrator."
+    For ($i = 1; $i -le 3; $i++)
+    {
+    $vmName = "ConferenceDemo" + $i
+    Write-Host "Creating VM: " $vmName
+    New-AzVm -ResourceGroupName $resourceGroup -Name $vmName -Credential $adminCredential -Image Canonical:0001-com-ubuntu-server-focal:20_04-lts:latest
+    }
 
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
+    
 
 [link](link)
