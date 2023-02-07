@@ -71,7 +71,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 34 > [Preset security policies for Microsoft Defender Office 365](Journey/034/Readme.md)
 - [ ] ☁️ 35 > [Defender for Endpoint](Journey/035/Readme.md)
 - [ ] ☁️ 36 > [Exercise - Create an Azure Resource using scripts in Azure PowerShell](Journey/036/Readme.md)
-- [ ] ☁️ 37 > [](Journey/037/Readme.md)
+- [ ] ☁️ 37 > [Creating a poweshell script to create VMs ](Journey/037/Readme.md)
 - [ ] ☁️ 38 > [](Journey/038/Readme.md)
 - [ ] ☁️ 39 > [](Journey/039/Readme.md)
 - [ ] ☁️ 40 > [](Journey/040/Readme.md)
