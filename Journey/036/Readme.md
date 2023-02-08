@@ -25,4 +25,4 @@ above is what it looks like once  you have successfully created a new vm!!!!
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-azure-activity-7028904235786235904-LZhb?utm_source=share&utm_medium=member_desktop)
