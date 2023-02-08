@@ -39,4 +39,4 @@ Built-in protection preset security policy for Safe Links and Safe Attachments; 
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7029198921214119937-2pwx?utm_source=share&utm_medium=member_desktop)
