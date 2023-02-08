@@ -3,9 +3,6 @@ Create an Azure website using the CLI
 
 
 
-https://learn.microsoft.com/en-us/training/modules/control-azure-services-with-cli/5-exercise-create-website-using-the-cli 
-
-![Screenshot](https://via.placeholder.com/500x300)
 
 ## ☁️ Cloud Outcome
 
