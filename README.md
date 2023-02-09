@@ -74,7 +74,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 37 > [Creating a poweshell script to create VMs ](Journey/037/Readme.md)
 - [ ] ☁️ 38 > [create an azure website using the CLI](Journey/038/Readme.md)
 - [ ] ☁️ 39 > [Exercise - Create and deploy an Azure Resource Manager template](Journey/039/Readme.md)
-- [ ] ☁️ 40 > [](Journey/040/Readme.md)
+- [ ] ☁️ 40 > [Creating users and groups (exercise) ](Journey/040/Readme.md)
 
 ## Trekking the dunes
 
