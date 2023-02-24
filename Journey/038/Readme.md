@@ -50,4 +50,4 @@ The final step is to deploy code from a GitHub repository to the web app. Let's 
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7035003567975342080-iED5?utm_source=share&utm_medium=member_desktop)
