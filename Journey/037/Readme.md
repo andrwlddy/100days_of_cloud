@@ -45,4 +45,4 @@ The script we completed and successfully tested was as follows
 
     
 
-[link](link)
+[linked post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7032187539381747712-E1KV?utm_source=share&utm_medium=member_desktop)
