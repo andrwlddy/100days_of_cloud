@@ -80,7 +80,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 - [ ] ☁️ 41 > [Configure Azure policy (exercise) ](Journey/041/Readme.md)
 - [ ] ☁️ 42 > [Build Proper Permission architecture (exercise)](Journey/042/Readme.md)
-- [ ] ☁️ 43 > [](Journey/043/Readme.md)
+- [ ] ☁️ 43 > [Adding Users to Azure Active Directory](Journey/043/Readme.md)
 - [ ] ☁️ 44 > [](Journey/044/Readme.md)
 - [ ] ☁️ 45 > [](Journey/045/Readme.md)
 - [ ] ☁️ 46 > [](Journey/046/Readme.md)
