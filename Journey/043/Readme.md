@@ -4,6 +4,8 @@ Adding users to Azure Active Directory
 https://learn.microsoft.com/en-us/training/modules/create-users-and-groups-in-azure-active-directory/2-user-accounts-azure-ad 
 
 
+https://learn.microsoft.com/en-us/training/modules/create-users-and-groups-in-azure-active-directory/3-exercise-add-delete-users-azure-ad 
+
 
 BULK CREATE USERS 
 
