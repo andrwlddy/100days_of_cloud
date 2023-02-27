@@ -83,7 +83,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 43 > [Adding Users to Azure Active Directory](Journey/043/Readme.md)
 - [ ] ☁️ 44 > [Exercise - Assign users to Azure Active Directory groups](Journey/044/Readme.md)
 - [ ] ☁️ 45 > [Give guest users access in Azure Active Directory B2B](Journey/045/Readme.md)
-- [ ] ☁️ 46 > [](Journey/046/Readme.md)
+- [ ] ☁️ 46 > [List Acces using Azure RBAC and Azure portal ](Journey/046/Readme.md)
 - [ ] ☁️ 47 > [](Journey/047/Readme.md)
 - [ ] ☁️ 48 > [](Journey/048/Readme.md)
 - [ ] ☁️ 49 > [](Journey/049/Readme.md)
