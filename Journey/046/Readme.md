@@ -5,6 +5,8 @@ https://learn.microsoft.com/en-us/training/modules/secure-azure-resources-with-r
 
 
 
+https://learn.microsoft.com/en-us/training/modules/secure-azure-resources-with-rbac/5-grant-access
+
 
 ## ☁️ Cloud Outcome
 
