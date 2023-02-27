@@ -1,41 +1,32 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+
 
 # New post title here
 
-## Introduction
+https://learn.microsoft.com/en-us/training/modules/configure-role-based-access-control/8-simulation-role-based
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+REQUIREMENTS 
 
-## Prerequisite
+The specific requirements are:
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+As the organization grows, ensure it will be easy to manage multiple subscriptions.
+Ensure the Help Desk members can create support requests.
+Ensure the Help Desk members can view resource groups, but not the resources in the resource groups.
 
-## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
 
-## Cloud Research
+Objectives
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+Task 1:Implement management groups. This will make it easy to manage multiple subscriptions.Ensure you have the necessary permissions to access the root management group.
+Create a management group and add your subscription.
 
-## Try yourself
+Task 2: Create a custom RBAC role for the Help Desk users.Create a JSON file that defines the custom Support Request Contributor role permissions.
+Use PowerShell to upload the new custom role.
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+Task 3: Assign RBAC roles.Create a new user, az104-02-aaduser1, and assign them the Support Request Contributor (Custom) role.
+Test the user permissions. The user should be able to view resource groups and create support requests.
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
 
 ## ☁️ Cloud Outcome
 
