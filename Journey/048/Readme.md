@@ -1,49 +1,33 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+Azure SSPR 
 
-# New post title here
+How SSPR works...
 
-## Introduction
+The user initiates a password reset either by going directly to the password reset portal or by selecting the Can't access your account link on a sign-in page. The reset portal takes these steps:
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Localization: The portal checks the browser's locale setting and renders the SSPR page in the appropriate language.
+Verification: The user enters their username and passes a captcha to ensure that it's a user and not a bot.
+Authentication: The user enters the required data to authenticate their identity. They might, for example, enter a code or answer security questions.
+Password reset: If the user passes the authentication tests, they can enter a new password and confirm it.
+Notification: A message is sent to the user to confirm the reset.
+There are several ways you can customize the SSPR user experience. For example, you can add your company logo to the sign-in page so users know that they're in the right place to reset their password.
 
-## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
 
-## Use Case
+Recommendations
+Enable two or more of the authentication reset request methods.
+Use the mobile app notification or code as the primary method, but also enable the email or office phone methods to support users without mobile devices.
+The mobile phone method isn't a recommended method because it's possible to send fraudulent SMS messages.
+The security question option is the least recommended method because the answers to the security questions might be known to other people. Only use the security question method in combination with at least one other method.
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Accounts associated with administrator roles
+A strong, two-method authentication policy is always applied to accounts with an administrator role, regardless of your configuration for other users.
+The security questions method isn't available to accounts that are associated with an administrator role.
 
-## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
 
-## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
 
