@@ -11,4 +11,4 @@ https://learn.microsoft.com/en-us/training/modules/create-azure-resource-manager
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post](https://www.linkedin.com/feed/update/urn:li:share:7036179182908792832/)
