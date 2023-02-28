@@ -85,7 +85,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 45 > [Give guest users access in Azure Active Directory B2B](Journey/045/Readme.md)
 - [ ] ☁️ 46 > [List and Grant Access using Azure RBAC and Azure portal ](Journey/046/Readme.md)
 - [ ] ☁️ 47 > [View activity logs for Azure RBAC changes](Journey/047/Readme.md)
-- [ ] ☁️ 48 > [](Journey/048/Readme.md)
+- [ ] ☁️ 48 > [Azure Self Service Password Reset (SSPR)](Journey/048/Readme.md)
 - [ ] ☁️ 49 > [](Journey/049/Readme.md)
 - [ ] ☁️ 50 > [](Journey/050/Readme.md)
 
