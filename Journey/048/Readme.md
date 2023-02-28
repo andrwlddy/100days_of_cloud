@@ -25,7 +25,9 @@ The security questions method isn't available to accounts that are associated wi
 
 
 
+ACTIVITY- SETTING UP SSPR 
 
+https://learn.microsoft.com/en-us/training/modules/allow-users-reset-their-password/4-exercise-set-up-self-service-password-reset 
 
 
 
