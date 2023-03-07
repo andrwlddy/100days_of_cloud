@@ -40,4 +40,4 @@ Test the user permissions. The user should be able to view resource groups and c
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-azure-activity-7039003753701646337-vLu9?utm_source=share&utm_medium=member_desktop)
