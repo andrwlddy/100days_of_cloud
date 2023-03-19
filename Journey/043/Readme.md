@@ -41,4 +41,4 @@ foreach ($email in $invitations)
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-azure-activity-7043057306443407360-Q8Wy?utm_source=share&utm_medium=member_desktop)
