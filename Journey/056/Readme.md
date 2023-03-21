@@ -1,4 +1,4 @@
-**Add a cover photo like:**
+
 
 
 
