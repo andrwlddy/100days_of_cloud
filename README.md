@@ -92,7 +92,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 ## Winding through the canyons
 
 - [ ] ☁️ 51 > [Azure storage simulation](Journey/051/Readme.md)
-- [ ] ☁️ 52 > [](Journey/052/Readme.md)
+- [ ] ☁️ 52 > [exercise: use SAS to delegate access in Azure storage](Journey/052/Readme.md)
 - [ ] ☁️ 53 > [](Journey/053/Readme.md)
 - [ ] ☁️ 54 > [](Journey/054/Readme.md)
 - [ ] ☁️ 55 > [](Journey/055/Readme.md)
