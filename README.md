@@ -98,7 +98,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 55 > [LAB-- Protect your virtual machine settings with Azure Automation State Configuration](Journey/055/Readme.md)
 - [ ] ☁️ 56 > [create an app with App Service](Journey/056/Readme.md)
 - [ ] ☁️ 57 > [Lab-- Host websites using PHP stack and implementing devops practices by using deployment slots](Journey/057/Readme.md)
-- [ ] ☁️ 58 > [](Journey/058/Readme.md)
+- [ ] ☁️ 58 > [Lab-- Azure Container instances and Docker](Journey/058/Readme.md)
 - [ ] ☁️ 59 > [](Journey/059/Readme.md)
 - [ ] ☁️ 60 > [](Journey/060/Readme.md)
 
