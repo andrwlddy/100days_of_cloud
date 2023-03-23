@@ -18,4 +18,4 @@ https://learn.microsoft.com/en-us/training/modules/create-users-and-groups-in-az
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-azure-activity-7044474049862725632-5Roq?utm_source=share&utm_medium=member_desktop)
