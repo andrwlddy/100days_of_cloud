@@ -15,4 +15,4 @@ https://learn.microsoft.com/en-us/training/modules/secure-azure-resources-with-r
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-azure-activity-7052028424952922112-Y1h2?utm_source=share&utm_medium=member_desktop)
