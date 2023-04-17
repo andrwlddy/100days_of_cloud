@@ -104,7 +104,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Stumbling through the caves
 
-- [ ] ☁️ 61 > [](Journey/061/Readme.md)
+- [ ] ☁️ 61 > [Exercise - Query system and runtime information about the VM](Journey/061/Readme.md)
 - [ ] ☁️ 62 > [](Journey/062/Readme.md)
 - [ ] ☁️ 63 > [](Journey/063/Readme.md)
 - [ ] ☁️ 64 > [](Journey/064/Readme.md)
