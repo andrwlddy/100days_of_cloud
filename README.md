@@ -100,7 +100,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 57 > [Lab-- Host websites using PHP stack and implementing devops practices by using deployment slots](Journey/057/Readme.md)
 - [ ] ☁️ 58 > [Lab-- Azure Container instances and Docker](Journey/058/Readme.md)
 - [ ] ☁️ 59 > [Lab-- AKS ](Journey/059/Readme.md)
-- [ ] ☁️ 60 > [](Journey/060/Readme.md)
+- [ ] ☁️ 60 > [LAB-- Create a Linux VM with the Azure CLI](Journey/060/Readme.md)
 
 ## Stumbling through the caves
 
