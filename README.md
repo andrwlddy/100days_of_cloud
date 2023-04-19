@@ -107,7 +107,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 61 > [Exercise - Query system and runtime information about the VM](Journey/061/Readme.md)
 - [ ] ☁️ 62 > [Exercise - Install software on your VM](Journey/062/Readme.md)
 - [ ] ☁️ 63 > [Exercise - Connect to VM using RDP](Journey/063/Readme.md)
-- [ ] ☁️ 64 > [](Journey/064/Readme.md)
+- [ ] ☁️ 64 > [Exercise - Create a web app in the Azure portal](Journey/064/Readme.md)
 - [ ] ☁️ 65 > [](Journey/065/Readme.md)
 - [ ] ☁️ 66 > [](Journey/066/Readme.md)
 - [ ] ☁️ 67 > [](Journey/067/Readme.md)
