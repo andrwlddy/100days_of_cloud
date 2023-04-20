@@ -109,7 +109,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 63 > [Exercise - Connect to VM using RDP](Journey/063/Readme.md)
 - [ ] ☁️ 64 > [Exercise - Create a web app in the Azure portal](Journey/064/Readme.md)
 - [ ] ☁️ 65 > [Exercise - Set up a DSC and configure a desired state](Journey/065/Readme.md)
-- [ ] ☁️ 66 > [](Journey/066/Readme.md)
+- [ ] ☁️ 66 > [Create public IP addressing](Journey/066/Readme.md)
 - [ ] ☁️ 67 > [](Journey/067/Readme.md)
 - [ ] ☁️ 68 > [](Journey/068/Readme.md)
 - [ ] ☁️ 69 > [](Journey/069/Readme.md)
