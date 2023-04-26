@@ -1,15 +1,9 @@
 BLOB STORAGE LAB 
 
 
+https://learn.microsoft.com/en-us/training/modules/configure-blob-storage/9-simulation-blobs
 
 
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
 
