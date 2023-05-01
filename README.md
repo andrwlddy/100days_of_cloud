@@ -117,7 +117,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Resting at the Lagoon
 
-- [ ] ☁️ 71 > [](Journey/071/Readme.md)
+- [ ] ☁️ 71 > [Creating a stie to site connection](Journey/071/Readme.md)
 - [ ] ☁️ 72 > [](Journey/072/Readme.md)
 - [ ] ☁️ 73 > [](Journey/073/Readme.md)
 - [ ] ☁️ 74 > [](Journey/074/Readme.md)
