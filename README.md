@@ -113,7 +113,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 67 > [Implement Network Security Groups](Journey/067/Readme.md)
 - [ ] ☁️ 68 > [Azure Firewall Rules](Journey/068/Readme.md)
 - [ ] ☁️ 69 > [Azure DNS Lab](Journey/069/Readme.md)
-- [ ] ☁️ 70 > [](Journey/070/Readme.md)
+- [ ] ☁️ 70 > [Virtual Network Peering](Journey/070/Readme.md)
 
 ## Resting at the Lagoon
 
