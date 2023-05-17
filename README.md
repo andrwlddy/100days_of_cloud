@@ -120,7 +120,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 71 > [Creating a stie to site connection](Journey/071/Readme.md)
 - [ ] ☁️ 72 > [Lab Simulation](Journey/072/Readme.md)
 - [ ] ☁️ 73 > [Lab Sim- Load Balancers](Journey/073/Readme.md)
-- [ ] ☁️ 74 > [](Journey/074/Readme.md)
+- [ ] ☁️ 74 > [Design and Implement IP addressing for Azure Virtual Networks](Journey/074/Readme.md)
 - [ ] ☁️ 75 > [](Journey/075/Readme.md)
 - [ ] ☁️ 76 > [](Journey/076/Readme.md)
 - [ ] ☁️ 77 > [](Journey/077/Readme.md)
