@@ -126,7 +126,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 77 > [Create Alias Records using Azure DNS](Journey/077/Readme.md)
 - [ ] ☁️ 78 > [Creating custom routes](Journey/078/Readme.md)
 - [ ] ☁️ 79 > [Create an NVA and virtual machines](Journey/079/Readme.md)
-- [ ] ☁️ 80 > [](Journey/080/Readme.md)
+- [ ] ☁️ 80 > [Route Traffic through the NVA](Journey/080/Readme.md)
 
 ## Up into the mountains
 
