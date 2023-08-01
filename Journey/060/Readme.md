@@ -13,4 +13,4 @@ https://learn.microsoft.com/en-us/training/modules/manage-virtual-machines-with-
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[Linkedin post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7091945656520466432-kdUr?utm_source=share&utm_medium=member_desktop)
