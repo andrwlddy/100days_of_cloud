@@ -12,4 +12,4 @@ https://learn.microsoft.com/en-us/training/modules/create-windows-virtual-machin
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[Linkedin post]([link](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7110775234470756352-QDGG?utm_source=share&utm_medium=member_desktop)https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7110775234470756352-QDGG?utm_source=share&utm_medium=member_desktop)
