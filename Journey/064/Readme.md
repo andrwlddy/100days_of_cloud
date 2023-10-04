@@ -8,4 +8,4 @@ https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-azure-activity-7115472257417666561-NB_r?utm_source=share&utm_medium=member_desktop)
