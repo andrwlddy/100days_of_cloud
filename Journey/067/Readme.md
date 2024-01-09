@@ -15,4 +15,4 @@ https://learn.microsoft.com/en-us/training/modules/configure-network-security-gr
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[linkedin post]()
+[linkedin post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7150339323400265728-a0Ss?utm_source=share&utm_medium=member_desktop)
