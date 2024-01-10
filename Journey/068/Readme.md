@@ -6,4 +6,4 @@ https://learn.microsoft.com/en-us/training/modules/configure-azure-firewall/4-cr
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7150664576584339457-OGQ0?utm_source=share&utm_medium=member_desktop)
