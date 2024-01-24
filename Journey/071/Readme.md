@@ -7,4 +7,4 @@ https://learn.microsoft.com/en-us/training/modules/configure-vpn-gateway/3-creat
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7155771261065842688-eRXS?utm_source=share&utm_medium=member_desktop)
