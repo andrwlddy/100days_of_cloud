@@ -16,4 +16,4 @@ https://learn.microsoft.com/en-us/training/modules/configure-network-routing-end
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7156092792459395072-udNQ?utm_source=share&utm_medium=member_desktop)
