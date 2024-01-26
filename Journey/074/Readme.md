@@ -21,4 +21,4 @@ https://learn.microsoft.com/en-us/training/modules/design-ip-addressing-for-azur
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post]([link](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7156491753406013440-zeR5?utm_source=share&utm_medium=member_desktop)https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7156491753406013440-zeR5?utm_source=share&utm_medium=member_desktop)
