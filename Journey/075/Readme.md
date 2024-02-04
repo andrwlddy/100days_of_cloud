@@ -17,4 +17,4 @@ https://learn.microsoft.com/en-us/training/modules/integrate-vnets-with-vnet-pee
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7159918642900455424-9dPb?utm_source=share&utm_medium=member_desktop)
