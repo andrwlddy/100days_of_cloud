@@ -16,4 +16,4 @@ https://learn.microsoft.com/en-us/training/modules/improve-app-scalability-resil
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7168782637535334400-asPt?utm_source=share&utm_medium=member_desktop)
