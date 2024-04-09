@@ -131,7 +131,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 ## Up into the mountains
 
 - [ ] ☁️ 81 > [Configure a Public Load Balancer](Journey/081/Readme.md)
-- [ ] ☁️ 82 > [](Journey/082/Readme.md)
+- [ ] ☁️ 82 > [Flashcards (review)](Journey/082/Readme.md)
 - [ ] ☁️ 83 > [](Journey/083/Readme.md)
 - [ ] ☁️ 84 > [](Journey/084/Readme.md)
 - [ ] ☁️ 85 > [](Journey/085/Readme.md)
