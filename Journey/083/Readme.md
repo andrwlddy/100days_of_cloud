@@ -14,4 +14,4 @@ https://learn.microsoft.com/en-us/training/modules/create-azure-storage-account/
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7186484004248821760-E8kp?utm_source=share&utm_medium=member_desktop)
