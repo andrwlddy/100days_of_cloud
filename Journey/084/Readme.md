@@ -32,4 +32,4 @@ https://learn.microsoft.com/en-us/training/modules/control-access-to-azure-stora
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post](https://www.linkedin.com/feed/update/urn:li:share:7196674432143183872/)
