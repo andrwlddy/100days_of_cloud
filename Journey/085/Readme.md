@@ -34,4 +34,4 @@ https://learn.microsoft.com/en-us/training/modules/upload-download-and-manage-da
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7197049453768310784-p_Zc?utm_source=share&utm_medium=member_desktop)
