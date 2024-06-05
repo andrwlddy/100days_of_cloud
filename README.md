@@ -137,7 +137,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 85 > [exercise-- connect azure storage explorer to a storage account](Journey/085/Readme.md)
 - [ ] ☁️ 86 > [exercise-- connect azure storage exploer to data lake storage](Journey/086/Readme.md)
 - [ ] ☁️ 87 > [Azure backup and recovery](Journey/087/Readme.md)
-- [ ] ☁️ 88 > [](Journey/088/Readme.md)
+- [ ] ☁️ 88 > [Confiugre Azure Monitor](Journey/088/Readme.md)
 - [ ] ☁️ 89 > [](Journey/089/Readme.md)
 - [ ] ☁️ 90 > [](Journey/090/Readme.md)
 
