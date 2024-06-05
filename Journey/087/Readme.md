@@ -11,4 +11,4 @@ azure backup and recovery
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7204269120933015552-23SR?utm_source=share&utm_medium=member_desktop)
