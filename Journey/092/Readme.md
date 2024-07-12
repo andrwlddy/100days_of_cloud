@@ -6,4 +6,4 @@ https://learn.microsoft.com/en-us/training/modules/analyze-infrastructure-with-a
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7217324552396095488-st4-?utm_source=share&utm_medium=member_desktop)
