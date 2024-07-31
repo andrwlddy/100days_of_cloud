@@ -145,7 +145,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 - [ ] ☁️ 91 > [Exercise -Use an activity log alert and an action group to notify users about events in your Azure infrastructure](Journey/091/Readme.md)
 - [ ] ☁️ 92 > [Create basic Azure Monitor log queries to extract information from log data](Journey/092/Readme.md)
-- [ ] ☁️ 93 > [](Journey/093/Readme.md)
+- [ ] ☁️ 93 > [Microsoft Identity Providers](Journey/093/Readme.md)
 - [ ] ☁️ 94 > [](Journey/094/Readme.md)
 - [ ] ☁️ 95 > [](Journey/095/Readme.md)
 - [ ] ☁️ 96 > [](Journey/096/Readme.md)
