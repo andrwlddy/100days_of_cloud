@@ -49,4 +49,4 @@
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7224202096617684992-38v1?utm_source=share&utm_medium=member_desktop)
