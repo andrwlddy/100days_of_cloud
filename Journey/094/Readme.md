@@ -11,4 +11,4 @@ https://learn.microsoft.com/en-us/training/modules/configure-network-watcher/4-r
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[linkedin post](https://www.linkedin.com/posts/andrew-leddy_100daysofcloud-activity-7226770566211346432-Njp-?utm_source=share&utm_medium=member_desktop)
