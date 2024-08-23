@@ -148,7 +148,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 93 > [Microsoft Identity Providers](Journey/093/Readme.md)
 - [ ] ☁️ 94 > [Next hop diagnostics (in network watcher)](Journey/094/Readme.md)
 - [ ] ☁️ 95 > [Network Topology](Journey/095/Readme.md)
-- [ ] ☁️ 96 > [](Journey/096/Readme.md)
+- [ ] ☁️ 96 > [practice assessment](Journey/096/Readme.md)
 - [ ] ☁️ 97 > [](Journey/097/Readme.md)
 - [ ] ☁️ 98 > [](Journey/098/Readme.md)
 - [ ] ☁️ 99 > [](Journey/099/Readme.md)
